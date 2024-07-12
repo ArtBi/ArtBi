@@ -13,7 +13,7 @@
 
 Here are some of the languages and tools I've worked with:
 
-- Java 
+- Java/Kotlin 
 - Selenium/Selenide 
 - Playwright
 - REST Assured

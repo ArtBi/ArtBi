@@ -23,34 +23,49 @@ Senior SDET with 12+ years in QA and 10+ years in test automation across Fintech
 
 ## 💻 Technologies & Tools
 
-**Languages and Frameworks:**
-- Java: Experienced in building robust test automation systems.
-- Kotlin: Utilized in various backend services and automation tasks.
-- Selenium/Selenide: Extensively used for automated web testing.
-- Playwright: Currently learning for cutting-edge browser automation.
-- REST Assured: Applied for API testing in Java environments.
+**Languages:**
 
-**Mobile Testing:**
-- Appium: For automated mobile application testing on Android and iOS.
-- Android/iOS: Platforms where I conduct mobile tests.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**DevOps Tools:**
-- Docker: Utilized for creating isolated testing environments.
-- Jenkins: Orchestrates CI/CD pipelines for automated test execution.
-- GitHub Actions: Manages workflows for continuous integration.
+**Automation & Testing:**
 
-**Databases:**
-- MySQL: Used for backend testing involving relational databases.
-- PostgreSQL: Implemented in projects requiring robust data handling.
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Selenide](https://img.shields.io/badge/Selenide-D82C7D?style=flat)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-4CAF50?style=flat)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
+![WinAppDriver](https://img.shields.io/badge/WinAppDriver-0078D6?style=flat&logo=windows&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF7300?style=flat)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 
 **AI/ML in Test Automation:**
-- YOLO11: Object detection model used for visual-based UI test automation when standard element locators (XPath, CSS, accessibility IDs) are unavailable or unreliable.
-- Training Data Pipeline: Collecting, labeling, and preparing datasets of UI screenshots for YOLO11 model training.
-- Visual Element Detection: Applying trained YOLO11 models to locate and interact with UI components (buttons, inputs, icons) in scenarios where the DOM is inaccessible — such as canvas-based apps, remote desktop sessions, or embedded webviews.
 
-**Others:**
-- Git: Version control for all development and testing tasks.
-- Postman: Employed for manual and automated API testing.
+![YOLO11](https://img.shields.io/badge/YOLO11-00FFFF?style=flat&logo=yolo&logoColor=black)
+![Training Data Pipeline](https://img.shields.io/badge/Training%20Data%20Pipeline-FF6F00?style=flat)
+![Visual Element Detection](https://img.shields.io/badge/Visual%20Element%20Detection-FF4081?style=flat)
+
+**CI/CD & Infrastructure:**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**RPA:**
+
+![WorkFusion](https://img.shields.io/badge/WorkFusion-0052CC?style=flat)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
+
+**Databases:**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 ## 📊 GitHub Stats
 

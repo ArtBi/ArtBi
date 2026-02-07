@@ -8,25 +8,10 @@ Senior SDET with 12+ years in QA and 10+ years in test automation across Fintech
 ## 🏆 Key Highlights
 
 - 🎮 Built a YOLO11-based library enabling visual interaction with 1000+ canvas-based games
-- 🏗️ Created multiple automation frameworks from scratch across different domains
+- 🏗️ Built 5+ automation frameworks from scratch across different domains
 - 🔧 Revived and modernized a legacy framework after 2 years without maintenance and zero documentation
 - 🐛 Automation detected ~25% of all bugs, with ~15% caught before merging to master
 - ⚡ Optimized framework that cut test execution time in half
-
-## 🤝 Connect with Me
-
-<p align="center">
-Interested in test automation consulting or collaboration? Feel free to reach out.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/artem-bilozor/">
-    <img src="https://img.shields.io/badge/LinkedIn-Artem%20Bilozor-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="mailto:theartbi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-theartbi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-</p>
 
 ## 💻 Technologies & Tools
 
@@ -36,6 +21,7 @@ Interested in test automation consulting or collaboration? Feel free to reach ou
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **Automation & Testing:**
 
@@ -50,18 +36,15 @@ Interested in test automation consulting or collaboration? Feel free to reach ou
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 
-**AI/ML in Test Automation:**
-
-![YOLO11](https://img.shields.io/badge/YOLO11-00FFFF?style=flat&logo=yolo&logoColor=black)
-![Training Data Pipeline](https://img.shields.io/badge/Training%20Data%20Pipeline-FF6F00?style=flat)
-![Visual Element Detection](https://img.shields.io/badge/Visual%20Element%20Detection-FF4081?style=flat)
-
 **CI/CD & Infrastructure:**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 **RPA:**
 
@@ -78,22 +61,17 @@ Interested in test automation consulting or collaboration? Feel free to reach ou
 
 Production-ready library built on **YOLO11** for detecting and interacting with canvas-based UI elements where traditional locators don't exist. Enabled automated testing for **1000+ web-based games**.
 
-## 📊 GitHub Stats
+## 🤝 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artbi&layout=compact&hide=html">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artbi&show_icons=true&theme=light&line_height=27">
+Interested in test automation consulting or collaboration? Feel free to reach out.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=artbi">
-</p>
-
-## 🔥 Recent GitHub Activity
-<p align="center">
-  <a href="https://github.com/artbi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=artbi&theme=minimal">
+  <a href="https://www.linkedin.com/in/artem-bilozor/">
+    <img src="https://img.shields.io/badge/LinkedIn-Artem%20Bilozor-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:theartbi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-theartbi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>

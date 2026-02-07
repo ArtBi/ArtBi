@@ -81,12 +81,12 @@ Production-ready library built on **YOLO11** for detecting and interacting with 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artbi">
+  <img src="https://streak-stats.demolab.com/?user=artbi">
 </p>
 
 ## 🔥 Recent GitHub Activity
 <p align="center">
   <a href="https://github.com/artbi">
-    <img src="https://activity-graph.herokuapp.com/graph?username=artbi&theme=minimal">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=artbi&theme=minimal">
   </a>
 </p>

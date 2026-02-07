@@ -67,6 +67,10 @@ Senior SDET with 12+ years in QA and 10+ years in test automation across Fintech
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
+## 🤖 AI-Powered Test Automation
+
+Production-ready library built on **YOLO11** for detecting and interacting with canvas-based UI elements where traditional locators don't exist. Enabled automated testing for **1000+ web-based games**.
+
 ## 📊 GitHub Stats
 
 <p align="center">

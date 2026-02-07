@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there, I'm Artem Bilozor</h1>
-<h3 align="center">🛠️ Senior Software Engineer in Test | Ukraine</h3>
+<h3 align="center">🛠️ Senior SDET | Ukraine</h3>
 
 <p align="center">
-I'm currently honing my skills in automated UI testing with Playwright, delving into advanced API testing techniques, and exploring YOLO11 for visual-based test automation — collecting and preparing training data to enable interaction with UI elements when traditional locators are not available.
+Senior SDET with 12+ years in QA and 10+ years in test automation across Fintech, E-commerce, Telecom, RPA, and Gamedev. Building automation frameworks from scratch, reviving legacy projects, and pushing the boundaries of test automation with AI — including a YOLO11-based library that enables interaction with 1000+ canvas-based games where traditional locators don't exist.
 </p>
 
 ## 🤝 Connect with Me

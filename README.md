@@ -5,6 +5,14 @@
 Senior SDET with 12+ years in QA and 10+ years in test automation across Fintech, E-commerce, Telecom, RPA, and Gamedev. Building automation frameworks from scratch, reviving legacy projects, and pushing the boundaries of test automation with AI — including a YOLO11-based library that enables interaction with 1000+ canvas-based games where traditional locators don't exist.
 </p>
 
+## 🏆 Key Highlights
+
+- 🎮 Built a YOLO11-based library enabling visual interaction with 1000+ canvas-based games
+- 🏗️ Created multiple automation frameworks from scratch across different domains
+- 🔧 Revived and modernized a legacy framework after 2 years without maintenance and zero documentation
+- 🐛 Automation detected ~25% of all bugs, with ~15% caught before merging to master
+- ⚡ Optimized framework that cut test execution time in half
+
 ## 🤝 Connect with Me
 
 <p align="center">

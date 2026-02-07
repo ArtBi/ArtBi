@@ -16,8 +16,15 @@ Senior SDET with 12+ years in QA and 10+ years in test automation across Fintech
 ## 🤝 Connect with Me
 
 <p align="center">
+Interested in test automation consulting or collaboration? Feel free to reach out.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/artem-bilozor/">
     <img src="https://img.shields.io/badge/LinkedIn-Artem%20Bilozor-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:theartbi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-theartbi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
 

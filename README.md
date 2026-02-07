@@ -2,7 +2,7 @@
 <h3 align="center">🛠️ Senior Software Engineer in Test | Ukraine</h3>
 
 <p align="center">
-I'm currently honing my skills in automated UI testing with Playwright and delving into advanced API testing techniques.
+I'm currently honing my skills in automated UI testing with Playwright, delving into advanced API testing techniques, and exploring YOLO11 for visual-based test automation — collecting and preparing training data to enable interaction with UI elements when traditional locators are not available.
 </p>
 
 ## 🤝 Connect with Me
@@ -34,6 +34,11 @@ I'm currently honing my skills in automated UI testing with Playwright and delvi
 **Databases:**
 - MySQL: Used for backend testing involving relational databases.
 - PostgreSQL: Implemented in projects requiring robust data handling.
+
+**AI/ML in Test Automation:**
+- YOLO11: Object detection model used for visual-based UI test automation when standard element locators (XPath, CSS, accessibility IDs) are unavailable or unreliable.
+- Training Data Pipeline: Collecting, labeling, and preparing datasets of UI screenshots for YOLO11 model training.
+- Visual Element Detection: Applying trained YOLO11 models to locate and interact with UI components (buttons, inputs, icons) in scenarios where the DOM is inaccessible — such as canvas-based apps, remote desktop sessions, or embedded webviews.
 
 **Others:**
 - Git: Version control for all development and testing tasks.
